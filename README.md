@@ -7,7 +7,7 @@
 La aplicación se **actualiza sola** desde este repositorio (feed Velopack); no hay que
 reinstalar. Cuando hay una versión nueva, aparece el botón "Nueva versión disponible".
 
-Versión actual: **v3.13.3**
+Versión actual: **v3.13.4**
 
 > Repositorio de binarios (instalador + feed Velopack) y `releases.json`
 > (novedades que muestra el centro de aplicaciones). El código fuente es privado.
