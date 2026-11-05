@@ -1,7 +1,1 @@
-{
-  "versionCode": 47,
-  "versionName": "0.19.0",
-  "sha8": "b13692ff",
-  "bytes": 26152935,
-  "apkUrl": "https://github.com/Joseperezleonn/vidcontrol-releases/raw/main/VidControl-Android.apk"
-}
+{"tipo":"android","versionCode":13,"versionName":"3.37.0","sha8":"6569aa3f","bytes":17673929,"sha256":"6569aa3f6e9dab2940a4314817fff6b1495ff1d27f26baaecdd20e21758a6c29","apkUrl":"https://github.com/Joseperezleonn/vidcontrol-releases/raw/main/VidControl-Android.apk","expira":"2027-02-03T16:28:41Z"}
